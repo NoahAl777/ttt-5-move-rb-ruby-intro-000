@@ -9,7 +9,7 @@ end
 # code your input_to_index and move method here!
 def input_to_index(user_input)
 if {
-  (user_input).to_i =- 1 === user_input.to_i >= 0 && 
+  (user_input).to_i =- 1 === user_input.to_i >= 0 &&
   user_input.to_i <= 8;
   return user_input
 
